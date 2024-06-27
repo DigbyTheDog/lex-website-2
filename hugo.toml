@@ -1,0 +1,4 @@
+baseURL = 'https://lexleesch.com/'
+languageCode = 'en-us'
+title = 'Lex Website'
+theme = 'cyberscape'
