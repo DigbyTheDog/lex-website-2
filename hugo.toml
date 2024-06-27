@@ -2,3 +2,13 @@ baseURL = 'https://lexleesch.com/'
 languageCode = 'en-us'
 title = 'Lex Website'
 theme = 'cyberscape'
+
+# Enable this for tailwind in markdown files
+[markup.goldmark.renderer]
+unsafe=true
+
+# Add menu links to things from /content/ here (eg. markdown.md)
+[[menu.main]]
+name = "other-page"
+url = "/other-page/"
+weight = 1
