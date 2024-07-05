@@ -14,6 +14,6 @@ url = "/other-page/"
 weight = 1
 
 [[menu.main]]
-name = "Photobooth Map"
+name = "photobooths"
 url = "https://umap.openstreetmap.fr/en/map/lex-and-alanis-photo-booths_961199?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true"
 weight = 2
