@@ -6,10 +6,6 @@
   background-image: url('/images/LexSpaceBanner.png');
 }
 
-body {
-  cursor: url('/images/blue_working.ani') 2 2, pointer;
-}
-
 #header {
   animation: animate-background linear 10s infinite;
 }
