@@ -6,6 +6,12 @@
 
 I thought it would be fun if Alanis and I documented our thoughts on every public park in San Francisco and ranked them. For those which we have already visited, we must visit them again, pay close attention to how much we like them, and discuss. We'll take a selfie of each one for thumbnails for the tier list. Each of us will grade the park on a scale of 0-100 and use the average to determine the letter grade. S-rank will be reserved for when we both agree the park deserves it. We are updating this as we go rather than completing it all at once. Below you can find a summary of our thoughts on each included park. 
 
+## S-Tier
+
+### Hyde/Vallejo Mini-Park
+
+This one really surprised us. We were walking back home after getting some ice cream when we discovered this place. It's super tiny but has a lot of trees and plants, seating options, and is a beautiful place to enjoy ice cream from Swensen's near by. The cable car stops here as well. There are also these ancient looking pig decorations. Where did they come from?! The pigs and the somewhat hidden nature of this one charmed us very much, so we both agreed this should be our first S-tier park.
+
 ## A-Tier
 
 ### Land's End
