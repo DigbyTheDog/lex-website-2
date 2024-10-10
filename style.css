@@ -20,6 +20,18 @@ h3 {
   margin:0px;
 }
 
+#center-box {
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+
+
+
+
+
 @font-face {
   font-family: "Juni Serif";
   src: url('fonts/junigarden/JunigardenSerif_PERSONAL_USE_ONLY.otf');
@@ -29,11 +41,6 @@ h3 {
   font-family: "Juni Swash";
   src: url('fonts/junigarden/JunigardenSwash_PERSONAL_USE_ONLY.otf');
 }
-
-
-
-
-
 
 
 
