@@ -9,15 +9,16 @@ body {
 }
 
 h1 {
-  font-size: 80px;
+  font-size: 60px;
   font-family: "Juni Swash";
   margin:0px;
 }
 
 h3 {
-  font-size: 30px;
-  font-family: "Juni Serif";
   margin:0px;
+  margin-right: 235px;
+  font-size: 18px;
+  font-family: "Juni Serif";
 }
 
 #center-box {
@@ -28,9 +29,15 @@ h3 {
   height: 150px;
 }
 
-
-
-
+@media only screen and (min-width: 600px) {
+  h1 {
+    font-size: 80px;
+  }
+  h3 {
+    font-size: 30px;
+    margin-right: 260px;
+  }
+}
 
 @font-face {
   font-family: "Juni Serif";
@@ -41,9 +48,6 @@ h3 {
   font-family: "Juni Swash";
   src: url('fonts/junigarden/JunigardenSwash_PERSONAL_USE_ONLY.otf');
 }
-
-
-
 
 .full-wh {
     position: absolute;
@@ -59,15 +63,7 @@ h3 {
     left: 0;
     width: 100%;
     height: 100%;
-}
-
-.bg-animation {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-
+    z-index: -1000;
 }
 
 #stars {
