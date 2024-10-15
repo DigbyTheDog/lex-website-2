@@ -48,6 +48,10 @@ p {
   font-size: 40px;
 }
 
+.center-box h3 {
+  margin:0;
+}
+
 .center-box img {
   display:block;
   margin: auto;
