@@ -20,7 +20,7 @@ h3 {
   text-shadow: 2px 2px 5px black;
 }
 
-#center-box {
+.center-box {
   margin: auto;
   margin-top: 12px;
   border-radius: 25px;
@@ -28,10 +28,22 @@ h3 {
   padding: 20px;
   width: 1000px;
   max-width: 85%;
-  min-height: 600px;
+  min-height: 500px;
   outline-color: white;
   outline-style: double;
   outline-width: thick;
+}
+
+#links {
+  outline-color: yellow;
+  margin-top: 32px;
+  min-height: 0px;
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.grid-item {
+  text-align: center;
 }
 
 @media only screen and (min-width: 600px) {
