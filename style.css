@@ -42,6 +42,11 @@ p {
   position: relative;
 }
 
+.center-box h1 {
+  text-align: center;
+  font-size: 40px;
+}
+
 .center-box img {
   display:block;
   margin: auto;
