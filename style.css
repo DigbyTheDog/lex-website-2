@@ -2,7 +2,7 @@ body {
   color: white;
   background: linear-gradient(0deg, rgba(34,7,73,1) 0%, rgba(14,1,17,1) 100%, rgba(96,23,203,1) 100%);
   background-attachment: fixed;
-  cursor: url('Cursor.png'), auto;
+  cursor: url('images/Cursor.png'), auto;
 }
 
 h1 {
@@ -20,6 +20,14 @@ h3 {
   text-shadow: 2px 2px 5px black;
 }
 
+a, a:visited {
+  color: white;
+}
+
+p {
+  margin-right: 16px;
+}
+
 .center-box {
   margin: auto;
   margin-top: 12px;
@@ -32,6 +40,7 @@ h3 {
   outline-color: white;
   outline-style: double;
   outline-width: thick;
+  position: relative;
 }
 
 #links {
