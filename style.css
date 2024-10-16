@@ -108,8 +108,8 @@ p {
 
 #moon {
   position:absolute;
-  bottom:50px;
-  left:60%;
+  bottom:30px;
+  left:25%;
   width: 30%;
   max-width: 300px;
   animation: animStar 700s linear infinite;
