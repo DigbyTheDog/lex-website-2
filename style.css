@@ -1,9 +1,6 @@
-html {
-  background-color: black;
-}
-
 body {
   color: white;
+  background-color: black;
   background: linear-gradient(0deg, rgba(34,7,73,1) 0%, rgba(14,1,17,1) 100%, rgba(96,23,203,1) 100%);
   background-attachment: fixed;
   cursor: url('images/Cursor.png'), auto;
