@@ -59,6 +59,12 @@ p {
   max-width: 100%;
 }
 
+.center-box iframe {
+  display:block;
+  margin: auto;
+  max-width: 100%;
+}
+
 #links {
   margin-bottom: 32px;
   min-height: 0px;
